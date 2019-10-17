@@ -4,34 +4,34 @@ import './chat.css';
 
 
 const Person1 = {
-    Name: "Cortex_saeko",
-    Avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/Cortex_Saeko.png",
-    Online: true,
+    name: "Cortex_saeko",
+    avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/Cortex_Saeko.png",
+    online: true,
 }
 
 const Person2 = {
-    Name: "Ext-_-taZz_",
-    Avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/ExT-_-TaZz_.png",
-    Online: false,
+    name: "Ext-_-taZz_",
+    avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/ExT-_-TaZz_.png",
+    online: false,
 }
 
 const Person3 = {
-    Name: "SmithOrange",
-    Avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/SmithOrange.png",
-    Online: true,
+    name: "SmithOrange",
+    avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/SmithOrange.png",
+    online: true,
 }
 
 
 const Person4 = {
-    Name: "Valetxav",
-    Avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/valetxav.png",
-    Online: true,
+    name: "Valetxav",
+    avatar: "https://avatar-cdn.tracker.gg/api/avatar/2/valetxav.png",
+    online: false,
 }
 
 const Person5 = {
-    Name: "maraiscarriere4",
-    Avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlt_gK3oOdSh2UE5iTd5FslHUGqwrgsvhBYRD0v6t5Vr1ydLx-",
-    Online: false,
+    name: "maraiscarriere4",
+    avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlt_gK3oOdSh2UE5iTd5FslHUGqwrgsvhBYRD0v6t5Vr1ydLx-",
+    online: true,
 }
 
 
